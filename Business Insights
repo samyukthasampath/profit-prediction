@@ -1,0 +1,15 @@
+1. Profitability by Selling Price
+Insight: As the selling price increases, the profit percentage also tends to increase. However, there might be price points where the profit margin drops, indicating inefficient pricing.
+Action: Identify optimal pricing strategies to maximize profit while maintaining competitive pricing.
+2. Cost Breakdown and Impact on Profitability
+Insight: If packaging or ingredient costs are significantly high, they could be cutting into profit margins.
+Action: Negotiate better deals with suppliers, consider alternative packaging, or optimize ingredient use.
+3. Predicted vs. Actual Profit Accuracy
+Insight: If the predicted profit percentage closely matches the actual profit percentage, the model is reliable. However, large deviations may indicate missing factors (e.g., discounts, waste, seasonal demand).
+Action: Refine the prediction model by including additional variables like seasonal demand fluctuations or special promotions.
+4. Revenue vs. Cost Comparison
+Insight: If revenue is not significantly exceeding costs, the business may need to adjust pricing, reduce costs, or increase volume.
+Action: Focus on high-margin products and adjust pricing for low-margin items.
+5. Error Analysis & Model Improvement
+Insight: If certain selling prices consistently show higher prediction errors, the model might be struggling to account for unknown factors like discounts, customer preferences, or operational inefficiencies.
+Action: Collect more data on external influences like seasonal trends and refine the ML model
